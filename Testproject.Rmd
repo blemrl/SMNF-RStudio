@@ -13,6 +13,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### SubTest1
 
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.horizont.net%2Fmedien%2Fnachrichten%2FSpiegel-Die-sieben-Voraussetzungen-fuer-das-ueberleben-der-Zeitungen-115989&psig=AOvVaw2DEmhMmbbDJuIxHjGnrSdZ&ust=1683705581042000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCMC4xZri5_4CFQAAAAAdAAAAABAE)
+
 ## Test2
 
 ### SubTest2
